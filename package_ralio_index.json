@@ -12,10 +12,10 @@
             {
                "category": "ESP8266",
                "name": "Ralio",
-               "url": "https://github.com/iotgupta/try/releases/download/mercury3/ralio-1.2.0.zip",
-               "version": "1.2.0",
+               "url": "https://github.com/iotgupta/try/releases/download/mercury4/ralio-1.1.1.zip",
+               "version": "1.1.1",
                "architecture": "esp8266",
-               "archiveFileName": "ralio-1.2.0.zip",
+               "archiveFileName": "ralio-1.1.1.zip",
                "boards": [
                   {
                      "name": "Mercury 1.0"
@@ -49,8 +49,8 @@
                "help": {
                   "online": "https://esp8266.com/arduino"
                },
-               "size": "40285221",
-               "checksum": "SHA-256:4addf29270515bc951fb8aa43ab5764958727211155d845e7e01c69b0851a255"
+               "size": "40285442",
+               "checksum": "SHA-256:4eaacb9c256a7c2565d838b85ecf694b3d21c1dcc0a1be788c8a42d8e815a6af"
             },
             {
                "category": "ESP8266",
