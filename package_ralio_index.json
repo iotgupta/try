@@ -1,8 +1,8 @@
 {
    "packages": [
       {
-         "name": "ralio1",
-         "maintainer": "Ralio Technologies X",
+         "name": "ralio",
+         "maintainer": "Ralio Technologies",
          "websiteURL": "https://raliotech.com",
          "email": "iotgupta@gmail.com",
          "help": {
@@ -11,11 +11,11 @@
          "platforms": [
             {
                "category": "ESP8266",
-               "name": "RalioX",
+               "name": "Ralio",
                "url": "https://github.com/iotgupta/try/releases/download/mercury2/ralx-1.0.0.zip",
-               "version": "1.0.0",
+               "version": "1.2.0",
                "architecture": "esp8266",
-               "archiveFileName": "ralx-1.0.0.zip",
+               "archiveFileName": "ralio-1.2.0.zip",
                "boards": [
                   {
                      "name": "Mercury 1.0"
@@ -26,22 +26,22 @@
                ],
                "toolsDependencies": [
                   {
-                     "packager": "ralio1",
+                     "packager": "ralio",
                      "version": "3.2.0-gcc10.3-c791b74",
                      "name": "xtensa-lx106-elf-gcc"
                   },
                   {
-                     "packager": "ralio1",
+                     "packager": "ralio",
                      "version": "3.2.0-gcc10.3-c791b74",
                      "name": "mkspiffs"
                   },
                   {
-                     "packager": "ralio1",
+                     "packager": "ralio",
                      "version": "3.2.0-gcc10.3-c791b74",
                      "name": "mklittlefs"
                   },
                   {
-                     "packager": "ralio1",
+                     "packager": "ralio",
                      "version": "3.7.2-post2",
                      "name": "python3"
                   }
@@ -49,8 +49,8 @@
                "help": {
                   "online": "https://esp8266.com/arduino"
                },
-               "size": "40453881",
-               "checksum": "SHA-256:553af0290676a6c93d519e087eaff1020ec9d7b23972a9a1848c610249bd6247"
+               "size": "40285221",
+               "checksum": "SHA-256:4addf29270515bc951fb8aa43ab5764958727211155d845e7e01c69b0851a255"
             }
          ],
          "tools": [
