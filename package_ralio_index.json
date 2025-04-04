@@ -1,8 +1,8 @@
 {
    "packages": [
       {
-         "name": "ralio",
-         "maintainer": "Ralio Technologies",
+         "name": "ralio1",
+         "maintainer": "Ralio Technologies X",
          "websiteURL": "https://raliotech.com",
          "email": "iotgupta@gmail.com",
          "help": {
@@ -11,7 +11,7 @@
          "platforms": [
             {
                "category": "ESP8266",
-               "name": "Ralio",
+               "name": "RalioX",
                "url": "https://github.com/iotgupta/try/releases/download/mercury1/ral-2.0.0.zip",
                "version": "2.0.0",
                "architecture": "esp8266",
@@ -26,22 +26,22 @@
                ],
                "toolsDependencies": [
                   {
-                     "packager": "ralio",
+                     "packager": "ralio1",
                      "version": "3.2.0-gcc10.3-c791b74",
                      "name": "xtensa-lx106-elf-gcc"
                   },
                   {
-                     "packager": "ralio",
+                     "packager": "ralio1",
                      "version": "3.2.0-gcc10.3-c791b74",
                      "name": "mkspiffs"
                   },
                   {
-                     "packager": "ralio",
+                     "packager": "ralio1",
                      "version": "3.2.0-gcc10.3-c791b74",
                      "name": "mklittlefs"
                   },
                   {
-                     "packager": "ralio",
+                     "packager": "ralio1",
                      "version": "3.7.2-post2",
                      "name": "python3"
                   }
