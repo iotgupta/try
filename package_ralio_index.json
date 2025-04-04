@@ -12,7 +12,7 @@
             {
                "category": "ESP8266",
                "name": "Ralio",
-               "url": "https://github.com/iotgupta/try/releases/download/mercury2/ralx-1.0.0.zip",
+               "url": "https://github.com/iotgupta/try/releases/download/mercury3/ralio-1.2.0.zip",
                "version": "1.2.0",
                "architecture": "esp8266",
                "archiveFileName": "ralio-1.2.0.zip",
